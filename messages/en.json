@@ -2,5 +2,41 @@
   "HomePage": {
     "title": "Bomb Candy",
     "description": "An educational game about the risks of gambling"
+  },
+  "Game": {
+    "modeSelect": {
+      "title": "Bomb Candy",
+      "description": "Pick candies to earn rewards — but watch out for bombs! An educational game about the risks of gambling.",
+      "single": "Single Player",
+      "twoPlayer": "Two Players"
+    },
+    "setup": {
+      "title": "Game Setup",
+      "candyCount": "Number of Candies",
+      "bombCount": "Number of Bombs",
+      "start": "Start Game"
+    },
+    "placement": {
+      "title": "Place the Bombs",
+      "placed": "{count, plural, =0 {Tap candies to place bombs} one {# bomb placed} other {# bombs placed}}",
+      "confirm": "Confirm & Hand Over",
+      "handoverTitle": "Hand over the device!",
+      "handoverDesc": "Pass the device to Player 2. Don't let them see where you placed the bombs!",
+      "ready": "I'm Ready!"
+    },
+    "board": {
+      "reward": "Reward",
+      "safe": "Safe",
+      "cashOut": "Cash Out"
+    },
+    "result": {
+      "winTitle": "Smart Move!",
+      "loseTitle": "BOOM!",
+      "finalReward": "You earned {amount} points!",
+      "winMessage": "Knowing when to stop is true wisdom. In real gambling, very few people manage to walk away in time.",
+      "loseMessage": "Greed leads to loss. In real gambling, the house always wins.",
+      "education": "Each candy is a gamble. The more you pick, the higher the risk — just like real gambling. The smarter choice is always to walk away while you're ahead.",
+      "playAgain": "Play Again"
+    }
   }
 }

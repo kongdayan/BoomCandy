@@ -2,5 +2,41 @@
   "HomePage": {
     "title": "炸弹糖",
     "description": "一款关于赌博风险的教育游戏"
+  },
+  "Game": {
+    "modeSelect": {
+      "title": "炸弹糖",
+      "description": "选糖赢奖励，小心炸弹！一款关于赌博风险的教育游戏。",
+      "single": "单人模式",
+      "twoPlayer": "双人模式"
+    },
+    "setup": {
+      "title": "游戏设置",
+      "candyCount": "糖果数量",
+      "bombCount": "炸弹数量",
+      "start": "开始游戏"
+    },
+    "placement": {
+      "title": "放置炸弹",
+      "placed": "{count, plural, =0 {点击糖果放置炸弹} other {已放置 # 个炸弹}}",
+      "confirm": "确认并交接",
+      "handoverTitle": "请交接设备！",
+      "handoverDesc": "把设备交给玩家2，不要让对方看到炸弹位置！",
+      "ready": "我准备好了！"
+    },
+    "board": {
+      "reward": "奖励",
+      "safe": "安全",
+      "cashOut": "见好就收"
+    },
+    "result": {
+      "winTitle": "明智的选择！",
+      "loseTitle": "砰！",
+      "finalReward": "你赢得了 {amount} 分！",
+      "winMessage": "适可而止才是智慧。在真正的赌博中，很少有人能做到及时收手。",
+      "loseMessage": "贪心不足蛇吞象。在真正的赌博中，庄家永远是赢家。",
+      "education": "每颗糖果都是一次赌注，选得越多风险越大——这和真正的赌博如出一辙。最明智的选择永远是在领先时及时抽身。",
+      "playAgain": "再来一局"
+    }
   }
 }
